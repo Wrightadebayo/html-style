@@ -1,0 +1,54 @@
+
+/* *{
+  margin: 0;
+}
+.navbar{
+  color: whitesmoke;
+  background-color: blue;
+  height: 6rem;
+  font-size: 3rem;
+}
+.banner{
+  background-color: brown;
+  
+  min-height: calc(100vh - 6rem);
+  max-height: 100vh;
+}
+
+.example{
+  background: orange;
+  width: 20rem;
+  height: 25rem;
+  overflow: hidden;
+  overflow: scroll;
+} */
+*{
+  margin: 0;
+}
+.navbar{
+  background: white;
+  height: 6rem;
+  font-size: 2rem;
+  color: brown;
+}
+.banner{
+  background-color: black;
+  min-height: calc(100vh - 6rem);
+}
+
+  h1{
+    color: white
+    
+  }
+  .logo{
+    color:brown;
+    font-size: 1rem;
+    
+  }
+  p{
+    color: aliceblue;
+  }
+  .hero-btn{
+    background-color: brown;
+    color: white;
+  }
